@@ -31,7 +31,22 @@
 <hr class="hr_gradient">
 </header>
 <div class="container">
-
+    <div class="gradient_policy">
+        <h1>Voici quelques</h1>
+        <h1>Informations sur moi : </h1>
+    </div>
+<section class="main-section">
+    <div class="features">
+        <div class="feature">
+            <div class="feature-title"><img alt="image d'étudiant" class="image-icon" src="images/casquette-etudiants.svg">Étudiant</div>
+            <div class="feature-text">Je suis actuellement étudiant en BTS Sio spécialité SLAM.</div>
+        </div>
+        <div class="feature">
+            <div class="feature-title"><img alt="image de développeur" class="image-icon" src="images/informaticien.svg">Développeur</div>
+            <div class="feature-text">Je suis actuellement étudiant en BTS Sio spécialité SLAM.</div>
+        </div>
+    </div>
+</section>
 </div>
 <?php include ("WebsitePart/footer.php") ?>
 </body>
