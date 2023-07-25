@@ -35,6 +35,4 @@
 </div>
 <?php include ("WebsitePart/footer.php") ?>
 </body>
-
-
 </html>
