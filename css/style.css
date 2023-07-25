@@ -102,7 +102,7 @@ li .nav-item {
     margin: 0 8px 0 0;
     opacity: 0.80;
 }
-.features .feature .feature_title {
+.features .feature .feature-title {
     font-size: 16px;
     line-height: 1.6;
     letter-spacing: -0.38px;
@@ -111,7 +111,7 @@ li .nav-item {
     font-weight: 300;
     color: white;
 }
-.features .feature .feature_text {
+.features .feature .feature-text {
     font-size: 12px;
     letter-spacing: -0.29px;
     color: white;
