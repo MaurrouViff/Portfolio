@@ -14,6 +14,12 @@
 <div class="container">
 
 </div>
+<!-- Flèche de retour en haut de la page -->
+<div class="arrow-container">
+    <i class="arrow">↑</i>
+</div>
+
 <?php include ("WebsitePart/footer.php") ?>
 </body>
+<script type="text/javascript" src="JavaScript/scrollToTop.js"></script>
 </html>
