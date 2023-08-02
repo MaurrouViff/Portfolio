@@ -34,8 +34,8 @@
     <h3 class="white">Je compte apprendre le C# et le C++</h3>
     <img class="image" src="assets/images/CSharp-image.png" alt="Image de CSharp">
     <img class="image" src="assets/images/CPP-image.png" alt="Image de C++">
-
-
+    <h3 class="white">Je compte utiliser cet IDE nommé <a class="link-to-page" href="https://visualstudio.microsoft.com/fr/vs/features/cplusplus/">Visual Studio</a></h3>
+    <img class="image" src="assets/images/Visual_Studio_Icon_2019.svg.png" alt="Image de Visual Studio">
 </div>
 <!-- Flèche de retour en haut de page -->
 <div class="arrow-container">
