@@ -21,7 +21,7 @@
                 <a href="./?action=logiciel" class="blue_btn">Voir les logiciels</a>
             </li>
             <li class="nav-item">
-                <a href="./?action=langage" class="blue_btn">Voir les langages & frameworks</a>
+                <a href="./?action=langage" class="blue_btn">Voir les langages</a>
             </li>
             <li class="nav-item">
                 <a href="./?action=conception" class="blue_btn">Conception</a>
@@ -43,7 +43,7 @@
         </div>
         <div class="feature">
             <div class="feature-title"><img alt="image de développeur" class="image-icon" src="images/informaticien.svg">Développeur</div>
-            <div class="feature-text">Je suis actuellement étudiant en BTS Sio spécialité SLAM.</div>
+            <div class="feature-text">J'apprends certains langages de programmation. <a href="./?action=langage" class="link-to-page">Cliquez ici</a> pour voir la liste</div>
         </div>
     </div>
 </section>

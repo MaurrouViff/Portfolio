@@ -157,3 +157,8 @@ li .nav-item {
     color: red;
     font-size: 24px;
 }
+/* Fin du style de la flèche */
+.link-to-page {
+    color: red;
+    text-decoration: none;
+}
