@@ -18,9 +18,6 @@
                 <a href="./?action=propos" class="blue_btn">À propos de ce Portfolio</a>
             </li>
             <li class="nav-item">
-                <a href="./?action=logiciel" class="blue_btn">Voir les logiciels</a>
-            </li>
-            <li class="nav-item">
                 <a href="./?action=langage" class="blue_btn">Voir les langages</a>
             </li>
             <li class="nav-item">
