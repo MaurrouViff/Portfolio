@@ -162,3 +162,9 @@ li .nav-item {
     color: red;
     text-decoration: none;
 }
+.white {
+    color: white;
+}
+h3 {
+    text-align: center;
+}
