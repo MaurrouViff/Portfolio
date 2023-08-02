@@ -71,6 +71,7 @@ html {
 }
 .container {
     flex-grow: 1;
+    text-align: center;
 }
 .navbar {
     min-height: 70px;
@@ -167,4 +168,8 @@ li .nav-item {
 }
 h3 {
     text-align: center;
+}
+.image {
+    width: 150px;
+    height: 150px;
 }
