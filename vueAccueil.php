@@ -10,7 +10,7 @@
     <link rel="icon" href="assets/icon/points-blancs-cercle-fond-noir-toile-fond-demi-teinte-spirale-abstraite-moderne_541122-271.avif">
 </head>
 <body>
-<header>
+<header class="header">
 <h2 class="gradient_policy">Bienvenue sur mon portfolio !</h2>
     <nav class="navbar">
         <ul class="nav-menu">
