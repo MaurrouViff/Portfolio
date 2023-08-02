@@ -7,7 +7,6 @@ class Controller {
         $this->actions = array(
             "defaut" => "accueil.php",
             "accueil" => "accueil.php",
-            "logiciel" => "logiciel.php",
             "propos" => "propos.php",
             "langage" => "langage.php"
         );
