@@ -6,7 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title><?php echo $titre ?></title>
-    <link rel="icon" href="assets/portfolio.svg">
+    <link rel="icon" href="assets/icon/points-blancs-cercle-fond-noir-toile-fond-demi-teinte-spirale-abstraite-moderne_541122-271.avif">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -15,6 +15,9 @@
     <div class="gradient_policy"><h1>Voici les langages que j'apprends :</h1></div>
     <hr class="hr_gradient">
     <h3 class="white">J'apprends actuellement le langage python</h3>
+    <img class="image" src="assets/images/" alt="Image du langage python">
+    <h3 class="white">J'utilise comme IDE Python : <a class="link-to-page" href="">PyCharm</a></h3>
+    <img class="image" src="assets/images/PyCharm_Icon.svg.png" alt="Image du logiciel PyCharm">
 </div>
 <!-- Flèche de retour en haut de page -->
 <div class="arrow-container">
