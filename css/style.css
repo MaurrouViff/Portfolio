@@ -194,23 +194,26 @@ h3 {
     padding-bottom: 90px;
 }
 .section-php {
-
-
+    background-image: url("../assets/images/code-javascript.jpg"), url("../assets/images/code-php.jpg");
+    background-position: center center, center center;
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover, cover;
     min-height: 60vh;
     padding-top: 126px;
     align-items: center;
     justify-content: center;
     padding-bottom: 90px;
-    background-size: cover;
 }
 .section-other {
-    background: url("../assets/images/code-python.jpg") center center no-repeat;
+    background-image: url("../assets/images"), url("");
+    background-position: center center, center center;
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover, cover;
     min-height: 60vh;
     padding-top: 126px;
     align-items: center;
     justify-content: center;
     padding-bottom: 90px;
-    background-size: cover;
 }
 section {
     display: flex;
