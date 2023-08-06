@@ -15,12 +15,13 @@
     <div class="gradient_policy"><h1>Voici les langages que j'apprends :</h1></div>
     <hr class="hr_gradient">
     <section class="section-python">
+
         <h3 class="white">J'apprends actuellement le langage python</h3>
         <img class="image" src="assets/images/Python-image.png" alt="Image du langage python">
         <h3 class="white">J'utilise comme IDE Python : <a class="link-to-page" href="https://www.jetbrains.com/fr-fr/pycharm/">PyCharm</a></h3>
         <img class="image" src="assets/images/PyCharm_Icon.svg.png" alt="Image du logiciel PyCharm">
     </section>
-    <hr class="hr_gradient">
+
     <section class="section-php">
         <h3 class="white">J'apprends plein de langage web comme le PHP & JavaScript</h3>
         <img class="image" src="assets/images/PHP-image.png" alt="Image de PHP">
@@ -28,7 +29,7 @@
         <h3 class="white">J'utilise comme IDE pour les langages web : <a class="link-to-page" href="https://www.jetbrains.com/fr-fr/phpstorm/">PhpStorm</a></h3>
         <img class="image" src="assets/images/PhpStorm_Icon.svg.png" alt="Image de PHPStorm">
     </section>
-    <hr class="hr_gradient">
+
     <section class="section-java">
         <h3 class="white">J'apprends le Java</h3>
         <img class="image" src="assets/images/Java-image.png" alt="Image de Java">

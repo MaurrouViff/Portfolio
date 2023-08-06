@@ -216,17 +216,15 @@ section {
     display: flex;
     flex-direction: column;
     align-items: center;
-}
-section h3, section.section-python, section.section-java, section.section-php, section.section-other {
-    display: block;
-    margin-bottom: 50px;
+    /* Ajustement de la marge autour des sections */
+    /* Ajustement de la marge supérieure pour rapprocher du hr */
+    margin: -8px 0 0;
 }
 section hr.hr_gradient {
     margin: 0;
 }
 section + hr.hr_gradient {
-    margin-top: 0;
-    margin-bottom: 0;
+    margin: 0; /* Ajustement de la marge avant le hr */
 }
 .toggleButton {
     background: linear-gradient(90deg, #f00, #f90, #ff0, #0f0, #0ff, #00f, #90f, #f0f, #f00);
