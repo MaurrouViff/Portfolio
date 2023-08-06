@@ -10,8 +10,11 @@
     <link rel="icon" href="assets/icon/icon-portfolio.png">
 </head>
 <body>
+
+
 <header class="header">
 <h2 class="gradient_policy">Bienvenue sur mon portfolio !</h2>
+
     <nav class="navbar">
         <ul class="nav-menu">
             <li class="nav-item">
