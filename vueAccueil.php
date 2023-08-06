@@ -15,7 +15,7 @@
     <nav class="navbar">
         <ul class="nav-menu">
             <li class="nav-item">
-                <a href="./?action=propos" class="blue_btn">À propos de ce Portfolio</a>
+                <a href="./?action=propos" class="blue_btn">À propos</a>
             </li>
             <li class="nav-item">
                 <a href="./?action=langage" class="blue_btn">Voir les langages</a>
@@ -35,11 +35,11 @@
 <section class="main-section">
     <div class="features">
         <div class="feature">
-            <div class="feature-title"><img alt="image d'étudiant" class="image-icon" src="images/casquette-etudiants.svg">Étudiant</div>
+            <div class="feature-title"><img alt="image d'étudiant" class="image-icon" src="assets/icon-images/student-icon.png">Étudiant</div>
             <div class="feature-text">Je suis actuellement étudiant en BTS Sio spécialité SLAM.</div>
         </div>
         <div class="feature">
-            <div class="feature-title"><img alt="image de développeur" class="image-icon" src="images/informaticien.svg">Développeur</div>
+            <div class="feature-title"><img alt="image de développeur" class="image-icon" src="assets/icon-images/developer-icon.png">Développeur</div>
             <div class="feature-text">J'apprends certains langages de programmation. <a href="./?action=langage" class="link-to-page">Cliquez ici</a> pour voir la liste</div>
         </div>
     </div>

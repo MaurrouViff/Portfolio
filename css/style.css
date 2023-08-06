@@ -139,7 +139,7 @@ li .nav-item {
     bottom: 20px;
     width: 50px;
     height: 50px;
-    background-color: white;
+    background-color: cyan;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -155,7 +155,7 @@ li .nav-item {
     pointer-events: auto;
 }
 .arrow {
-    color: red;
+    color: black;
     font-size: 24px;
 }
 /* Fin du style de la flèche */
