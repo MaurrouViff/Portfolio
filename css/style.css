@@ -195,7 +195,7 @@ h3 {
 }
 .section-php {
     background-image: url("../assets/images/code-javascript.jpg"), url("../assets/images/code-php.jpg");
-    background-position: center center, center center;
+    background-position: center top, center bottom; /* Position verticale des images */
     background-repeat: no-repeat, no-repeat;
     background-size: cover, cover;
     min-height: 60vh;
@@ -204,6 +204,9 @@ h3 {
     justify-content: center;
     padding-bottom: 90px;
 }
+
+
+
 .section-other {
     background-image: url("../assets/images"), url("");
     background-position: center center, center center;
