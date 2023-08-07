@@ -12,7 +12,7 @@
 <body>
 <?php include ("WebsitePart/header.php") ?>
 <div class="container">
-
+    <div class="gradient_policy"><h1>Conception de ce portfolio</h1></div>
 </div>
 <?php include ("WebsitePart/footer.php") ?>
 </body>

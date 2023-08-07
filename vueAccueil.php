@@ -21,7 +21,7 @@
                 <a href="./?action=propos" class="blue_btn">À propos</a>
             </li>
             <li class="nav-item">
-                <a href="./?action=langage" class="blue_btn">Voir les langages</a>
+                <a href="./?action=langage" class="blue_btn">Langages</a>
             </li>
             <li class="nav-item">
                 <a href="./?action=conception" class="blue_btn">Conception</a>
