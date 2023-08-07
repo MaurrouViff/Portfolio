@@ -162,6 +162,10 @@ li .nav-item {
 .link-to-page {
     color: red;
     text-decoration: none;
+    opacity: 0.8;
+}
+.link-to-page:hover {
+    opacity: 1;
 }
 .white {
     color: white;
@@ -229,6 +233,9 @@ section + hr.hr_gradient {
 }
 .cyan {
     color: cyan;
+}
+.gold {
+    color: gold;
 }
 .toggleButton {
     background: linear-gradient(90deg, #f00, #f90, #ff0, #0f0, #0ff, #00f, #90f, #f0f, #f00);
