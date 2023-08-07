@@ -13,6 +13,8 @@
 <?php include ("WebsitePart/header.php") ?>
 <div class="container">
     <div class="gradient_policy"><h1>Conception de ce portfolio</h1></div>
+    <h3 class="cyan">Ce portfolio a été codé en PHP, CSS et JS</h3>
+    <h3 class="cyan">Pour voir les src, vous devez aller sur mon <a class="link-to-page" href="https://github.com/MaurrouViff">GitHub</a></h3>
 </div>
 <?php include ("WebsitePart/footer.php") ?>
 </body>
