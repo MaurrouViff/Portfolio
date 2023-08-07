@@ -8,7 +8,9 @@ class Controller {
             "defaut" => "accueil.php",
             "accueil" => "accueil.php",
             "propos" => "propos.php",
-            "langage" => "langage.php"
+            "langage" => "langage.php",
+            "conception" => "conception.php",
+            "cv" => "cv.php"
         );
     }
     // Exécutions des actions

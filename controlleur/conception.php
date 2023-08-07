@@ -4,4 +4,4 @@ if ($_SERVER["SCRIPT_FILENAME"] == __FILE__) {
 }
 // Gère l'affichage de la page "conception"
 $titre = "Conception - Portfolio";
-include "";
+include "$racine/vueConception.php";

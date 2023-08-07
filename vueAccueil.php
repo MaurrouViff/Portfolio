@@ -26,6 +26,9 @@
             <li class="nav-item">
                 <a href="./?action=conception" class="blue_btn">Conception</a>
             </li>
+            <li class="nav-item">
+                <a href="./?action=cv" class="blue_btn">CV</a>
+            </li>
         </ul>
     </nav>
 <hr class="hr_gradient">

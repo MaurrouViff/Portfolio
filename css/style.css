@@ -194,7 +194,7 @@ h3 {
     padding-bottom: 90px;
 }
 .section-php {
-    background-image: url("../assets/images/code-javascript.jpg"), url("../assets/images/code-php.jpg");
+    background-image: url("../assets/images/code-php.jpg");
     background-position: center top, center bottom; /* Position verticale des images */
     background-repeat: no-repeat, no-repeat;
     background-size: cover, cover;
@@ -204,11 +204,8 @@ h3 {
     justify-content: center;
     padding-bottom: 90px;
 }
-
-
-
 .section-other {
-    background-image: url("../assets/images"), url("");
+    background-image: url("../assets/images/code-cpp.png");
     background-position: center center, center center;
     background-repeat: no-repeat, no-repeat;
     background-size: cover, cover;
@@ -222,8 +219,6 @@ section {
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* Ajustement de la marge autour des sections */
-    /* Ajustement de la marge supérieure pour rapprocher du hr */
     margin: -8px 0 0;
 }
 section hr.hr_gradient {
@@ -231,6 +226,9 @@ section hr.hr_gradient {
 }
 section + hr.hr_gradient {
     margin: 0; /* Ajustement de la marge avant le hr */
+}
+.cyan {
+    color: cyan;
 }
 .toggleButton {
     background: linear-gradient(90deg, #f00, #f90, #ff0, #0f0, #0ff, #00f, #90f, #f0f, #f00);
