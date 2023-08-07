@@ -241,6 +241,10 @@ section + hr.hr_gradient {
     outline: none;
     animation: colorAnimation 8s linear infinite;
     color: black;
+    opacity: 0.80;
+}
+.toggleButton:hover {
+    opacity: 1;
 }
 
 @keyframes colorAnimation {
