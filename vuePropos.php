@@ -13,11 +13,14 @@
 <?php include ("WebsitePart/header.php") ?>
 <div class="container">
     <div class="gradient_policy"><h1>À propos</h1></div>
-    <h3 class="gradient_policy">Je suis un jeune étudiant en BTS SIO spécialité SLAM qui compte après s'orienter vers une école d'ingénieur</h3>
+    <h3 class="cyan">Je suis un jeune étudiant en BTS SIO spécialité SLAM qui compte après s'orienter vers une école d'ingénieur</h3>
     <div class="gradient_policy"><h1>Me contacter</h1></div>
-    <div class="gradient_policy"><h3>Mon adresse mail : </h3></div>
-    <h5 id="email" style="display: none;" class="gradient_policy">aubriet.aurelien31082004@outlook.fr</h5>
+    <div class="cyan"><h3>Mon adresse mail : </h3></div>
+    <h5 id="email" style="display: none;" class="cyan">aubriet.aurelien31082004@outlook.fr</h5>
     <button id="toggleButton" onclick="toggleEmail()" class="toggleButton">Afficher</button>
+    <div class="gradient_policy"><h1>Mon inspiration</h1></div>
+
+
 </div>
 <!-- Flèche de retour en haut de la page -->
 <div class="arrow-container">
