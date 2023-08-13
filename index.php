@@ -1,6 +1,8 @@
 <?php
+
 include "getRacine.php";
-include "$racine/controlleur/Controller.php";
+include "$racine/controler/controleurPrincipal.php";
+include_once "$racine/modele/authentification.inc.php"; // pour pouvoir utiliser isLoggedOn()
 
 $controller = new Controller();
 
@@ -11,4 +13,4 @@ if (isset($_GET["action"])) {
 }
 
 $fichier = $controller->execute($action);
-include "$racine/controlleur/$fichier";
+include "$racine/controler/$fichier";
