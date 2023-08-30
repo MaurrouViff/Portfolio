@@ -46,7 +46,7 @@
         </div>
         <div class="feature">
             <div class="feature-title"><img alt="image de développeur" class="image-icon" src="assets/icon-images/developer-icon.png">Développeur</div>
-            <div class="feature-text">J'apprends certains langages de programmation. <a href="./?action=langage" class="link-to-page">Cliquez ici</a> pour voir la liste</div>
+            <div class="feature-text">J'apprends certains langages de programmation. <a href="langage.php" class="link-to-page">Cliquez ici</a> pour voir la liste</div>
         </div>
     </div>
 </section>
