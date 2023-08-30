@@ -2,7 +2,7 @@
     <nav class="navbar">
         <ul class="nav-menu">
             <li class="nav-item">
-                <a class="blue_btn" href="./?action=accueil">Retour</a>
+                <a class="blue_btn" href="index.php">Retour</a>
             </li>
         </ul>
     </nav>
