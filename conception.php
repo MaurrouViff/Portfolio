@@ -10,26 +10,12 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<header class="header">
-    <nav class="navbar">
-        <ul class="nav-menu">
-            <li class="nav-item">
-                <a class="blue_btn" href="index.html">Retour</a>
-            </li>
-        </ul>
-    </nav>
-    <hr class="hr_gradient">
-</header>
+<?php include ("WebsitePart/header/header.php") ?>
 <div class="container">
     <div class="gradient_policy"><h1>Conception de ce portfolio</h1></div>
     <h3 class="cyan">Ce portfolio a été codé en PHP, CSS et JS</h3>
     <h3 class="cyan">Pour voir les src, vous devez aller sur mon <a class="link-to-page" href="https://github.com/MaurrouViff">GitHub</a></h3>
 </div>
-<footer class="footer">
-    <hr class="hr_gradient">
-    <div class="gradient_policy">
-        <p>Fait avec amour par <a href="https://github.com/MaurrouViff/">MaurrouViff</a></p>
-    </div>
-</footer>
+<?php include ("WebsitePart/footer/footer.php") ?>
 </body>
 </html>

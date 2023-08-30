@@ -10,16 +10,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<header class="header">
-    <nav class="navbar">
-        <ul class="nav-menu">
-            <li class="nav-item">
-                <a class="blue_btn" href="index.html">Retour</a>
-            </li>
-        </ul>
-    </nav>
-    <hr class="hr_gradient">
-</header>
+<?php include ("WebsitePart/header/header.php") ?>
 <div class="container">
     <div class="gradient_policy"><h1>Voici les langages que j'apprends :</h1></div>
     <hr class="hr_gradient">
@@ -60,12 +51,7 @@
 <div class="arrow-container">
     <i class="arrow">↑</i>
 </div>
-<footer class="footer">
-    <hr class="hr_gradient">
-    <div class="gradient_policy">
-        <p>Fait avec amour par <a href="https://github.com/MaurrouViff/">MaurrouViff</a></p>
-    </div>
-</footer>
+<?php include ("WebsitePart/footer/footer.php") ?>
 </body>
 <script type="text/javascript" src="JavaScript/scrollToTop.js"></script>
 </html>
