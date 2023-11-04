@@ -178,6 +178,10 @@ h3 {
     width: 150px;
     height: 150px;
 }
+.image-proxmox {
+    width: 250px;
+    height: 150px;
+}
 .section-python {
     background: url("../assets/images/code-python.jpg") center center no-repeat;
     min-height: 60vh;
