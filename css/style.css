@@ -167,6 +167,7 @@ li .nav-item {
 }
 .link-to-page:hover {
     opacity: 1;
+    text-decoration: underline;
 }
 .white {
     color: white;
@@ -234,10 +235,14 @@ section hr.hr_gradient {
     margin: 0;
 }
 section + hr.hr_gradient {
-    margin: 0; /* Ajustement de la marge avant le hr */
+    margin: 0;
 }
 .cyan {
     color: cyan;
+    opacity: 0.9;
+}
+.cyan:hover {
+    opacity: 1;
 }
 .gold {
     color: gold;
